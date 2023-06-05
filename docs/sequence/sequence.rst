@@ -767,8 +767,7 @@ Returns ``true`` if analysis is complete.
 Sequence.importMGT()
 *********************************************
 
-| ``app.project.sequences[index].videotracks[index].importMGT``
-| ``app.project.sequences[index].audiotracks[index].importMGT``
+| ``app.project.sequences[index].importMGT()``
 
 **Description**
 
